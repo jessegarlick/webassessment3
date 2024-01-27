@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "name": "Puka Nacua",
+      "picture": "https://fhcsportsreport.com/wp-content/uploads/2023/11/download.jpeg",
+      "votes": 0
+    },
+    {
+      "id": 2,
+      "name": "Tiger Woods",
+      "picture": "https://media.cnn.com/api/v1/images/stellar/prod/210223210046-25-tiger-woods-restricted.jpg?q=w_2000,h_1333,x_0,y_0,c_fill/h_618",
+      "votes": 0
+    },
+    {
+      "id": 3,
+      "name": "Vince Carter",
+      "picture": "https://i.cbc.ca/1.5162564.1559689506!/fileImage/httpImage/72519871.jpg",
+      "votes": 0
+    },
+    {
+        "id": 4,
+        "name": "Tony Finau",
+        "picture": "https://www.si.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MjAzNzAxNTEyNDIzMjIxMTM4/finau-rocket.jpg",
+        "votes": 0
+    },
+    {
+        "id": 5,
+        "name": "Zach Wilson",
+        "picture": "https://bloximages.chicago2.vip.townnews.com/rapidcityjournal.com/content/tncms/assets/v3/editorial/a/14/a14402b0-a98b-595b-94e1-7ea3aa28bb70/657aed296546f.image.jpg",
+        "votes": 0
+    },
+    {
+        "id": 6,
+        "name": "Jon Jones",
+        "picture": "https://miro.medium.com/v2/resize:fit:1400/1*7hHHJ3ffwJ1HCwa5Jrkwww.jpeg",
+        "votes": 0
+    }
+] 
